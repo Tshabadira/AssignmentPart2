@@ -1,0 +1,19 @@
+{
+  "totalMessages": 2,
+  "messages": [
+    {
+      "messageId": 1004,
+      "recipient": "+27678717944",
+      "content": "HELLO, How are you doing today",
+      "messageHash": "10:1:HELLO,-TODAY",
+      "timestamp": "2025-05-26 13:37:19"
+    },
+    {
+      "messageId": 1001,
+      "recipient": "+27678717944",
+      "content": "shjgsjhgdsajhgdsjgs",
+      "messageHash": "10:2:SHJGSJHGDSAJHGDSJGS-SHJGSJHGDSAJHGDSJGS",
+      "timestamp": "2025-05-26 16:25:27"
+    }
+  ]
+}
